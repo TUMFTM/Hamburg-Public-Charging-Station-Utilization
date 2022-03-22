@@ -1,6 +1,10 @@
 # Placing BEV Charging Infrastructure: Influencing Factors, Metrics, and their Influence on Observed Charger Utilization
 
-This repository contains the open-source charging data sets belonging to our MPDI Journal Article "Placing BEV Charging Infrastructure: Influencing Factors, Metrics, and their Influence on Observed Charger Utilization" (https://www.researchgate.net/publication/359392268_Placing_BEV_Charging_Infrastructure_Influencing_Factors_Metrics_and_Their_Influence_on_Observed_Charger_Utilization). 
+This repository contains the open-source charging data sets belonging to our MPDI Journal Article "Placing BEV Charging Infrastructure: Influencing Factors, Metrics, and their Influence on Observed Charger Utilization".
+
+* MDPI WEVJ: https://www.mdpi.com/2032-6653/13/4/56
+* Researchgate: https://www.researchgate.net/publication/359392268_Placing_BEV_Charging_Infrastructure_Influencing_Factors_Metrics_and_Their_Influence_on_Observed_Charger_Utilization
+
 Please consider the license information below.
 
 ## License
@@ -27,5 +31,5 @@ Lennart Adenaw, Sebastian Krapf
 
 Please also check the associated article available in the World Electric Vehicle Journal:
 
-
-https://www.researchgate.net/publication/359392268_Placing_BEV_Charging_Infrastructure_Influencing_Factors_Metrics_and_Their_Influence_on_Observed_Charger_Utilization
+* MDPI WEVJ: https://www.mdpi.com/2032-6653/13/4/56
+* Researchgate: https://www.researchgate.net/publication/359392268_Placing_BEV_Charging_Infrastructure_Influencing_Factors_Metrics_and_Their_Influence_on_Observed_Charger_Utilization
